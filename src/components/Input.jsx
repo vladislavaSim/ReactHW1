@@ -3,10 +3,7 @@ import React from 'react';
 
 const Input = () => {
     return (
-        <>
-            <input className='input'>
-            </input>
-        </>
+            <input className='input' />
     );
 };
 
